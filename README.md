@@ -2,7 +2,7 @@
   <h1> 👩🏼‍💻 Chatbot Engineer </h1>
   
   <h3>
-  Paving the future of AI as a dedicated Chatbot Engineer. 
+  Paving the future of AI as a dedicated Chatbot Engineer. <br/>
   Harnessing efficiency and empathy to create harmonious human-bot connections.
   </h3>
 
