@@ -1,4 +1,4 @@
-### Hi everyone, Success is in your hand 👋
+### Hi everyone, Success is in your hand 🤲
 
 <p>
   <h1 align="center"> 👩🏼‍💻 Chatbot Engineer </h1>
@@ -18,3 +18,8 @@
   - ⚡ Fun fact: I am a  womenintech enthusiast!
   </h4>
 </p> 
+
+<h1 align="center">🤝</h1>
+<p align="center">
+<a href="mailto:n.melo1013@gmail.com">Email to</a>
+</p>
